@@ -1,0 +1,30 @@
+{
+  "id": 1009,
+  "banner": [
+    {
+      "src": "https://si.geilicdn.com/wdseller502441367-2b0d0000016c369abe430a20b7b9_1242_1656.jpg.webp?w=640&h=640"
+    },
+    {
+      "src": "https://si.geilicdn.com/wdseller502441367-2b0d0000016c369abe430a20b7b9_1242_1656.jpg.webp?w=640&h=640"
+    },
+
+    {
+      "src": "https://si.geilicdn.com/wdseller502441367-2b150000016c369abee80a20b7b9_1242_1656.jpg.webp?w=640&h=640"
+    }
+  ],
+  "title": "【天然蓝染◆丝毛围巾】七月清水江",
+  "bigContent": "以天然蓝靛染就，不添加化工原料",
+  "smallContent": "以扎染手法形成渐变色彩。深浅浓淡的蓝，层层叠叠 如七月的清水江，水波潋滟。既有幽远深邃，亦带明媚清浅",
+  "money": 448,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "丝毛围巾 x1",
+  "address": ["西安市", "雁塔区"],
+  "pBox": [
+    "https://si.geilicdn.com/wdseller502441367-05580000016c369abe430a217205_1656_1242.jpg.webp?w=640&h=640"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

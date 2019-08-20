@@ -1,0 +1,28 @@
+{
+  "id": 1010,
+  "banner": [
+    {
+      "src": "https://si.geilicdn.com/forward502441367-5c82000001674ec8a1ec0a028841_1656_1242.jpg.webp?w=750&h=750&cp=1"
+    },
+    {
+      "src": "https://si.geilicdn.com/forward502441367-1979000001674eca84820a02853e_1242_1656.jpg.webp?w=750&h=750&cp=1"
+    },
+    {
+      "src": "https://si.geilicdn.com/forward502441367-1d78000001674ecc89140a028841_4962_3717.jpg.webp?w=750&h=750&cp=1"
+    }
+  ],
+  "title": "原创设计｜2019剪纸创意年历",
+  "bigContent": "毛毡礼盒版含封面一盒13片",
+  "smallContent": "原创设计｜2019联大剪纸毛毡年历（礼盒装）",
+  "money": 119,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "年历 x1",
+  "address": ["西安市", "雁塔区"],
+  "pBox": [
+],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

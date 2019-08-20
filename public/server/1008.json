@@ -1,0 +1,36 @@
+{
+  "id": 1008,
+  "banner": [
+    {
+      "src": "https://si.geilicdn.com/wdseller502441367-76e700000168055f4f1b0a216239_1242_1656.jpg.webp?w=750&h=825&cp=1"
+    },
+    {
+      "src": "https://si.geilicdn.com/wdseller502441367-6ff200000168055959770a217205_620_465.jpg.webp?w=750&h=825&cp=1"
+    },
+    {
+      "src": "https://si.geilicdn.com/wdseller502441367-5a4600000168055959970a216239_620_465.jpg.webp?w=750&h=825&cp=1"
+    },
+    {
+      "src": "https://si.geilicdn.com/wdseller502441367-0ff70000016805595acb0a20b7b9_620_827.jpg.webp?w=750&h=825&cp=1"
+    }
+  ],
+  "hotLink": "/detail/1001",
+  "title": "原创设计｜四季剪纸小夜灯DIY材料包",
+  "bigContent": "",
+  "smallContent": " 文创设计非遗中国风年货可定制 慧子手工",
+  "money": 120,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "材料包 x1",
+  "address": ["西安市", "雁塔区"],
+  "pBox": [
+    "https://si.geilicdn.com/wdseller502441367-0ff70000016805595acb0a20b7b9_620_827.jpg.webp?w=750&h=750&cp=1",
+    "https://si.geilicdn.com/wdseller502441367-76e700000168055f4f1b0a216239_1242_1656.jpg.webp?w=750&h=750&cp=1",
+    "https://si.geilicdn.com/wdseller502441367-6ff200000168055959770a217205_620_465.jpg.webp?w=750&h=750&cp=1",
+    "https://si.geilicdn.com/wdseller502441367-5a4600000168055959970a216239_620_465.jpg.webp?w=750&h=750&cp=1"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}
