@@ -28,8 +28,6 @@
     <div ref="view01" class="app-init scroll-box tab-box mi-tj footer-hack" v-show="navListActiveIndex == 0">
       <!--      <swiper :list="bannerList"></swiper>-->
       <div class="shop-item">
-        <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
-        
         <div class="shop-box clear">
           <div class="shop-box-item" v-for="(target, index) in shoplist" :key="index"
                @click="$router.openPage(target.href)">
@@ -177,49 +175,49 @@
                 ],
                 shoplist: [
                     {
-                        src: 'https://si.geilicdn.com/wdseller502441367-76e700000168055f4f1b0a216239_1242_1656.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/index%282%29.png',
                         title: '四季剪纸小夜灯DIY材料包',
                         con: '举步之明，光明立现',
                         money: 120,
                         href: '/detail/1008'
                     },
                     {
-                        src: 'https://si.geilicdn.com/vshop502441367-1459596511577-99b5c-s1.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/WX20190821-110959%402x.png',
                         title: '原创螺旋发插「一枝梅」',
                         con: '材料：铜、合金、料器',
                         money: 118,
                         href: '/detail/1017'
                     },
                     {
-                        src: 'https://si.geilicdn.com/wdseller502441367-2b0d0000016c369abe430a20b7b9_1242_1656.jpg.webp?w=640&h=400',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/wdseller502441367-2b0d0000016c369abe430a20b7b9_1242_1656.jpg.webp',
                         title: '【天然蓝染◆丝毛围巾】',
                         con: '幽远深邃，亦带明媚清浅',
                         money: 448,
                         href: '/detail/1009'
                     },
                     {
-                        src: 'https://si.geilicdn.com/vshop502441367-1492431421288-DA992-s1.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-1.webp',
                         title: '昆曲工尺谱文身贴纸2.0',
                         con: '原创设计 |《牡丹亭》',
                         money: 20,
                         href: '/detail/1019'
                     },
                     {
-                        src: 'https://si.geilicdn.com/bj-wd-502441367-1516804927220-1554607960_1080_1440.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1012-01.webp',
                         title: '原创耳坠「红泪」一对',
                         con: '材料：黄铜、玛瑙珠',
                         money: 89,
                         href: '/detail/1012'
                     },
                     {
-                        src: 'https://si.geilicdn.com/forward502441367-5c82000001674ec8a1ec0a028841_1656_1242.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1010-01.webp',
                         title: '2019剪纸创意年历',
                         con: '原创设计｜（礼盒装）',
                         money: 119,
                         href: '/detail/1010'
                     },
                     {
-                        src: 'https://si.geilicdn.com/bj-wd-502441367-1535043967603-635916044_1686_1264.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1011-01.webp',
                         title: '原创发夹/胸针「蓝莲花」',
                         con: '手工布艺作品',
                         money: 49,
@@ -257,7 +255,7 @@
                 ],
                 shoplist01: [
                     {
-                        src: 'https://si.geilicdn.com/bj-wd-502441367-1516804927220-1554607960_1080_1440.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1012-01.webp',
                         title: '原创耳坠「红泪」一对',
                         con: '材料：黄铜、玛瑙珠',
                         money: 89,
@@ -286,28 +284,28 @@
                 ],
                 shoplist02: [
                     {
-                        src: 'https://si.geilicdn.com/vshop502441367-1459687041476-86bed-s1.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1015-01.webp',
                         title: '原创发簪「金萼」',
                         con: ' 材料：黄铜',
                         money: 289,
                         href: '/detail/1015'
                     },
                     {
-                        src: 'https://si.geilicdn.com/vshop502441367-1459597245772-fe567-s1.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1016-01.webp',
                         title: '原创发钗「白梅香」银色款',
                         con: '材料：天然淡水珍珠、黄铜',
                         money: 249,
                         href: '/detail/1016'
                     },
                     {
-                        src: 'https://si.geilicdn.com/vshop502441367-1459596511577-99b5c-s1.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1017-01.png',
                         title: '原创螺旋发插「一枝梅」',
                         con: '材料：铜、合金、料器',
                         money: 118,
                         href: '/detail/1017'
                     },
                     {
-                        src: 'https://si.geilicdn.com/vshop502441367-1459436965337-43774-s1.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1018-01.webp',
                         title: '原创发簪「小荷」',
                         con: '小荷才露尖尖角',
                         money: 138,
@@ -323,7 +321,7 @@
                 ],
                 shoplist03: [
                     {
-                        src: 'https://si.geilicdn.com/wdseller502441367-76e700000168055f4f1b0a216239_1242_1656.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/index%282%29.png',
                         title: '四季剪纸小夜灯DIY材料包',
                         con: '举步之明，光明立现',
                         money: 120,
@@ -339,14 +337,14 @@
                 ],
                 shoplist04: [
                     {
-                        src: 'https://si.geilicdn.com/vshop502441367-1492431421288-DA992-s1.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-1.webp',
                         title: '昆曲工尺谱文身贴纸',
                         con: '原创设计 |《牡丹亭》',
                         money: 20,
                         href: '/detail/1019'
                     },
                     {
-                        src: 'https://si.geilicdn.com/vshop502441367-1465742778315-EC5E0-s1.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1020-01.webp',
                         title: '《诗经》明刻本·文身贴纸',
                         con: '原创设计 |《诗经》',
                         money: 20,
