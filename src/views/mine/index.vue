@@ -29,38 +29,11 @@
         <p class="icon">
           <span class="iconfont icon-buoumaotubiao46"></span>
         </p>
-        <p class="name">退换修</p>
+        <p class="name">售后服务</p>
       </div>
     </div>
-
-    <div class="new-wrap">
-      <div class="dingdan public-padding p-item" @click="$router.openPage('/pay')">
-        <span class="iconfont icon-huiyuan" style="color: #FDBF2D;"></span>
-        <span>会员福利</span>
-      </div>
-      <div class="dingdan public-padding p-item" @click="$router.openPage('/pay')">
-        <span class="iconfont icon-qianbao1" style="color: #51BBE0;"></span>
-        <span>我的优惠</span>
-      </div>
-    </div>
-
-    <div class="new-wrap">
-      <div class="dingdan public-padding p-item" @click="$router.openPage('/pay')">
-        <span class="iconfont icon-fuwuerji2" style="color: #F96C5E;"></span>
-        <span>服务中心</span>
-      </div>
-      <div class="dingdan public-padding p-item" @click="$router.openPage('/pay')">
-        <span class="iconfont icon-shop" style="color: #FF8B43;"></span>
-        <span>小米之家</span>
-      </div>
-    </div>
-
-    <div class="new-wrap">
-      <div class="dingdan public-padding p-item" @click="$router.openPage('/pay')">
-        <span class="iconfont icon-shezhi" style="color: #818C99;"></span>
-        <span>设置</span>
-      </div>
-    </div>
+    
+    
 
   </div>
 

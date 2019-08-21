@@ -2,33 +2,31 @@
   "id": 1017,
   "banner": [
     {
-      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e9f783356e223874ecf6e13bd4eb90ad.jpg?bg=EEDAC9"
+      "src": "https://si.geilicdn.com/vshop502441367-1459596511577-99b5c-s1.jpg.webp?w=750&h=750&cp=1"},
+    {
+      "src": "https://si.geilicdn.com/vshop502441367-1459596511883-e173b-s1.jpg.webp?w=750&h=750&cp=1"
     },
     {
-      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/29232e23fd61eeb8e6027bc71e6e2c19.jpg?bg=FAFAFA"
-    },
-    {
-      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2858b59b5e03a14c29e6e56e04f7b786.jpg?bg=F8EFED"
+      "src": "https://si.geilicdn.com/vshop502441367-1459596728557-65e30-s1.jpg.webp?w=750&h=750&cp=1"
     }
   ],
-  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
-  "hotLink": "/detail/1001",
-  "title": "小米盒子3 增强版 ",
-  "bigContent": "【小米盒子“暖心特价”！直降50元，限量抢购！】",
-  "smallContent": "全新升级64位 4K网络机顶盒 / 2GB内存 + 8GB容量 / 标配蓝牙语音遥控器",
-  "money": 399,
-  "noMoney": 449,
-  "tips": ["直降50元"],
-  "chouse": "小米盒子3增强版 白色 x1",
+
+  "title": "原创螺旋发插「一枝梅」",
+  "bigContent": "多色入 材料：铜、合金、料器、东陵玉珠/淡水珍珠/青金石珠",
+  "smallContent": "发插长约7cm, 宽约3cm，佩戴时以顺时针方向拧入发髻中，取下时逆时针拧出，固定效果非常好，请勿直接拉扯。",
+  "money": 118,
+  "noMoney": 138,
+  "tips": ["直降20元"],
+  "chouse": "「一枝梅」 x1",
   "address": ["西安市", "雁塔区"],
   "pBox": [
-    "//i8.mifile.cn/v1/a1/T1hRJjB5Yv1RXrhCrK.jpg?w=720&h=609&s=87.6",
-    "//i8.mifile.cn/v1/a1/T12ADjBjAT1RXrhCrK.jpg?w=720&h=1136&s=65.9",
-    "//i8.mifile.cn/v1/a1/T1FcAjByJv1RXrhCrK.jpg?w=720&h=505&s=81.8",
-    "//i8.mifile.cn/v1/a1/T1VuhjBjVT1RXrhCrK.jpg?w=720&h=559&s=95.7",
-    "//i8.mifile.cn/v1/a1/T1pRhjBCEv1RXrhCrK.jpg?w=720&h=531&s=69.6",
-    "//i8.mifile.cn/v1/a1/T124WjByJv1RXrhCrK.jpg?w=720&h=660&s=88.9",
-    "//i8.mifile.cn/v1/a1/T1mWxvBQ_v1RXrhCrK.jpg?w=720&h=996&s=96.7"
+    "https://si.geilicdn.com/vshop502441367-1459596511577-99b5c-s1.jpg.webp?w=640&h=640",
+    "https://si.geilicdn.com/vshop502441367-1459596511883-e173b-s1.jpg.webp?w=640&h=640",
+    "https://si.geilicdn.com/vshop502441367-1459596728557-65e30-s1.jpg.webp?w=640&h=640",
+    "https://si.geilicdn.com/vshop502441367-1459596498805-f4a1a-s11.jpg.webp?w=640&h=640",
+    "https://si.geilicdn.com/vshop502441367-1459596492831-b768f-s4.jpg.webp?w=640&h=640",
+    "https://si.geilicdn.com/vshop502441367-1459596495031-6c82e-s5.jpg.webp?w=640&h=640",
+    "https://si.geilicdn.com/vshop502441367-1459596495200-a4291-s5.jpg.webp?w=640&h=640"
   ],
 
   "msg": "请求成功",

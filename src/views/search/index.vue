@@ -21,19 +21,13 @@
 
       <div class="title">热门搜索</div>
 
-      <img src="http://i8.mifile.cn/b2c-mimall-media/60c89ea361bed3a7edaf73b3b6663608.jpg?bg=BBD6DF" @click="$router.openPage('/detail/1009')" alt="">
 
 
 
       <ul class="hot-box">
         <li class="item">四季剪纸小夜灯</li>
-        <li class="item">小米音箱</li>
-        <li class="item">电视机</li>
-        <li class="item">红米</li>
-        <li class="item">24寸</li>
-        <li class="item">年轻人的第一张简历</li>
-        <li class="item">雷军</li>
-        <li class="item">Are you ok?</li>
+        <li class="item">昆曲工尺谱文身贴纸</li>
+        <li class="item">原创螺旋发插「一枝梅」</li>
       </ul>
     </div>
 

@@ -1,17 +1,13 @@
 <template>
   <div class="app-init pay-page scroll-box">
-    <header-back title="关于"></header-back>
+    <header-back title="whoops"></header-back>
 
     <div class="padding-box">
-      <p>商城 功能, 布局 由本人实现，图片来源界面布局排版均防自 <span class="color">小米商城 m.mi.com</span></p>
-      <br>
-      <p>联系我</p>
-      <p>e-mail: millent@126.com</p>
-      <p>github: github.com/jon-millent</p>
-      <p>website: http://verydog.cn</p>
+  
+      <p>whoops</p>
+      <p>服务好像失败了</p>
+      <p>请联系管理员重启服务器</p>
 
-      <br>
-      <p>Update on 2019/01/15</p>
 
     </div>
 
