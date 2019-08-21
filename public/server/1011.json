@@ -2,7 +2,7 @@
   "id": 1011,
   "banner": [
     {
-      "src": "https://si.geilicdn.com/bj-wd-502441367-1535042316661-220002527_1240_930.jpg.webp?w=640&h=640"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1011-01.webp"
     }
   ],
   "title": "原创发夹/胸针「蓝莲花」 多款入",
@@ -14,11 +14,11 @@
   "chouse": "蓝莲花 x1",
   "address": ["西安市", "雁塔区"],
   "pBox": [
-    "https://si.geilicdn.com/bj-wd-502441367-1535042316661-220002527_1240_930.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/bj-wd-502441367-1535042334189-330725871_2304_3072.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/bj-wd-502441367-1535042323617-1492330030_2304_3072.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/bj-wd-502441367-1535042328576-1377254608_2304_3072.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/bj-wd-502441367-1535042330253-347160003_2560_1920.jpg.webp?w=640&h=640"
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1011-01.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1011-02.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1011-03.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1011-04.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1011-05.webp"
   ],
 
   "msg": "请求成功",

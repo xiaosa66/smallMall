@@ -262,13 +262,13 @@
                         href: '/detail/1012'
                     },
                     {
-                        src: 'https://si.geilicdn.com/vshop502441367-1455549882483-47999-s18.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1013-01.webp',
                         title: '原创耳坠「莲华胜」一对',
                         con: '材料：黄铜、玉珠',
                         money: 89,
                         href: '/detail/1013'
                     }, {
-                        src: 'https://si.geilicdn.com/bj-wd-502441367-1516775441109-1717797430_1080_739.jpg.webp?w=750&h=750&cp=1',
+                        src: 'https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1014-01.webp',
                         title: '原创耳坠「翠铃铎」一对',
                         con: '材料：黄铜、玉珠',
                         money: 89,

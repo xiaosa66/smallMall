@@ -2,7 +2,7 @@
   "id": 1018,
   "banner": [
     {
-      "src": "https://si.geilicdn.com/vshop502441367-1459436965337-43774-s1.jpg.webp?w=750&h=750&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1018-01.webp"
     }
   ],
   "title": "原创发簪「小荷」",
@@ -14,11 +14,10 @@
   "chouse": "原创发簪「小荷」 x1",
   "address": ["西安市", "雁塔区"],
   "pBox": [
-    "https://si.geilicdn.com/vshop502441367-1459436965337-43774-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459436965857-16727-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459436966835-15217-s1.jpg.webp?w=640&h=640",
-    "//i8.mifile.cn/b2c-mimall-media/2d9740a8e381855d38e0edc08e56b1f1.jpg?w=720&h=785",
-    "//i8.mifile.cn/b2c-mimall-media/ea61528e427e1dd48cf1373d284c69f3.jpg?w=720&h=785"
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1018-01.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1018-02.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1018-03.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1018-04.webp"
   ],
 
   "msg": "请求成功",

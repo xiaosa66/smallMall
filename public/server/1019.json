@@ -2,14 +2,13 @@
   "id": 1019,
   "banner": [
     {
-      "src": "https://si.geilicdn.com/vshop502441367-1465742224808-6799904.jpg.webp?w=750&h=750&cp=1"
-    },
-
-    {
-      "src": "https://si.geilicdn.com/vshop502441367-1465742778315-EC5E0-s1.jpg.webp?w=750&h=750&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-01.webp"
     },
     {
-      "src": "https://si.geilicdn.com/vshop502441367-1465742778472-B5007-s1.jpg.webp?w=750&h=750&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-02.webp"
+    },
+    {
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-03.webp"
     }
   ],
   "title": "昆曲工尺谱文身贴纸",
@@ -19,22 +18,24 @@
   "noMoney": "",
   "tips": [],
   "chouse": "昆曲工尺谱·文身贴纸 x1",
-  "address": ["西安市", "雁塔区"],
-  "pBox": [
-    "https://si.geilicdn.com/vshop502441367-1492431421288-DA992-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1465653806949-B47F7-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1492431068534-FB6E2-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1465653277942-972007.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1465653807363-A5C04-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1467129697423-14278-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1465653811913-E1DBE-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1492431071187-C62E6-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1465653812509-5B827-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1465653812760-EF279-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1465653813889-CD172-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1465653810386-77AA8-s1.jpg.webp?w=640&h=640"
+  "address": [
+    "西安市",
+    "雁塔区"
   ],
-
+  "pBox": [
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-02.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-01.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-03.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-04.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-05.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-06.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-07.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-08.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-09.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-10.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-11.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1019-12.webp"
+  ],
   "msg": "请求成功",
   "code": 200,
   "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"

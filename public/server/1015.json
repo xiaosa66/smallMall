@@ -2,7 +2,7 @@
   "id": 1015,
   "banner": [
     {
-      "src": "https://si.geilicdn.com/vshop502441367-1459687041476-86bed-s1.jpg.webp?w=750&h=750&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1015-01.webp"
     }
   ],
 
@@ -15,8 +15,8 @@
   "chouse": "原创发簪「金萼」 x1",
   "address": ["西安市", "雁塔区"],
   "pBox": [
-    "https://si.geilicdn.com/vshop502441367-1459687041476-86bed-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459687041181-2663b-s1.jpg.webp?w=640&h=640"
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1015-01.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1015-02.webp"
   ],
 
   "msg": "请求成功",

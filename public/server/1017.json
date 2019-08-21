@@ -4,10 +4,10 @@
     {
       "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/WX20190821-110959%402x.png"},
     {
-      "src": "https://si.geilicdn.com/vshop502441367-1459596511883-e173b-s1.jpg.webp?w=750&h=750&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1017-02.webp"
     },
     {
-      "src": "https://si.geilicdn.com/vshop502441367-1459596728557-65e30-s1.jpg.webp?w=750&h=750&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1017-03.webp"
     }
   ],
 
@@ -20,13 +20,13 @@
   "chouse": "「一枝梅」 x1",
   "address": ["西安市", "雁塔区"],
   "pBox": [
-    "https://si.geilicdn.com/vshop502441367-1459596511577-99b5c-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459596511883-e173b-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459596728557-65e30-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459596498805-f4a1a-s11.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459596492831-b768f-s4.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459596495031-6c82e-s5.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459596495200-a4291-s5.jpg.webp?w=640&h=640"
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/WX20190821-110959%402x.png",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1017-02.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1017-03.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1017-04.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1017-05.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1017-06.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1017-07.webp"
   ],
 
   "msg": "请求成功",

@@ -2,14 +2,10 @@
   "id": 1009,
   "banner": [
     {
-      "src": "https://si.geilicdn.com/wdseller502441367-2b0d0000016c369abe430a20b7b9_1242_1656.jpg.webp?w=640&h=640"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/wdseller502441367-2b0d0000016c369abe430a20b7b9_1242_1656.jpg.webp"
     },
     {
-      "src": "https://si.geilicdn.com/wdseller502441367-2b0d0000016c369abe430a20b7b9_1242_1656.jpg.webp?w=640&h=640"
-    },
-
-    {
-      "src": "https://si.geilicdn.com/wdseller502441367-2b150000016c369abee80a20b7b9_1242_1656.jpg.webp?w=640&h=640"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1009-2.webp"
     }
   ],
   "title": "【天然蓝染◆丝毛围巾】七月清水江",
@@ -21,7 +17,7 @@
   "chouse": "丝毛围巾 x1",
   "address": ["西安市", "雁塔区"],
   "pBox": [
-    "https://si.geilicdn.com/wdseller502441367-05580000016c369abe430a217205_1656_1242.jpg.webp?w=640&h=640"
+    "https://si.geilicdn.com/wdseller502441367-05580000016c369abe430a217205_1656_1242.jpg.webp?w=640&h=640","https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/wdseller502441367-2b0d0000016c369abe430a20b7b9_1242_1656.jpg.webp","https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1009-2.webp"
   ],
 
   "msg": "请求成功",

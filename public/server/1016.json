@@ -2,7 +2,7 @@
   "id": 1016,
   "banner": [
     {
-      "src": "https://si.geilicdn.com/vshop502441367-1459597245772-fe567-s1.jpg.webp?w=750&h=750&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1016-01.webp"
     }
   ],
 
@@ -15,10 +15,10 @@
   "chouse": "「白梅香」银色款  x1",
   "address": ["西安市", "雁塔区"],
   "pBox": [
-    "https://si.geilicdn.com/vshop502441367-1459597245772-fe567-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459597244414-17711-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459597244380-163d2-s1.jpg.webp?w=640&h=640",
-    "https://si.geilicdn.com/vshop502441367-1459597244463-d8115-s1.jpg.webp?w=640&h=640"
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1016-01.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1016-2.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1016-03.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1016-04.webp"
   ],
 
   "msg": "请求成功",

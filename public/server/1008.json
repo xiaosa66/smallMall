@@ -2,16 +2,16 @@
   "id": 1008,
   "banner": [
     {
-      "src": "https://si.geilicdn.com/wdseller502441367-76e700000168055f4f1b0a216239_1242_1656.jpg.webp?w=750&h=825&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/index%282%29.png"
     },
     {
-      "src": "https://si.geilicdn.com/wdseller502441367-6ff200000168055959770a217205_620_465.jpg.webp?w=750&h=825&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1008-2.webp"
     },
     {
-      "src": "https://si.geilicdn.com/wdseller502441367-5a4600000168055959970a216239_620_465.jpg.webp?w=750&h=825&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1008-3.webp"
     },
     {
-      "src": "https://si.geilicdn.com/wdseller502441367-0ff70000016805595acb0a20b7b9_620_827.jpg.webp?w=750&h=825&cp=1"
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1008-4.webp"
     }
   ],
   "hotLink": "/detail/1001",
@@ -24,10 +24,10 @@
   "chouse": "材料包 x1",
   "address": ["西安市", "雁塔区"],
   "pBox": [
-    "https://si.geilicdn.com/wdseller502441367-0ff70000016805595acb0a20b7b9_620_827.jpg.webp?w=750&h=750&cp=1",
-    "https://si.geilicdn.com/wdseller502441367-76e700000168055f4f1b0a216239_1242_1656.jpg.webp?w=750&h=750&cp=1",
-    "https://si.geilicdn.com/wdseller502441367-6ff200000168055959770a217205_620_465.jpg.webp?w=750&h=750&cp=1",
-    "https://si.geilicdn.com/wdseller502441367-5a4600000168055959970a216239_620_465.jpg.webp?w=750&h=750&cp=1"
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/index%282%29.png",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1008-2.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1008-3.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1008-4.webp"
   ],
 
   "msg": "请求成功",

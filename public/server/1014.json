@@ -2,9 +2,9 @@
   "id": 1014,
   "banner": [
     {
-      "src": "https://si.geilicdn.com/bj-wd-502441367-1516775441109-1717797430_1080_739.jpg.webp?w=750&h=750&cp=1",
-      "src": "https://si.geilicdn.com/vshop502441367-1456132822971-58866-s1.jpg.webp?w=750&h=750&cp=1"
-    }
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1014-01.webp"    },
+    {
+      "src": "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1014-02.webp"    }
   ],
   "title": "原创耳坠「翠铃铎」一对",
   "bigContent": "材料：黄铜、白色天然岫玉珠/优化绿东陵玉珠",
@@ -18,8 +18,8 @@
     "雁塔区"
   ],
   "pBox": [
-    "https://si.geilicdn.com/vshop502441367-1456132822971-58866-s1.jpg.webp?w=750&h=750&cp=1",
-    "https://si.geilicdn.com/bj-wd-502441367-1516775441109-1717797430_1080_739.jpg.webp?w=750&h=750&cp=1"
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1014-02.webp",
+    "https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/newMall/1014-01.webp"
   ],
   "msg": "请求成功",
   "code": 200,
